@@ -4,7 +4,7 @@
 
 <center> <h2>Motivation</h2> </center>
 
-This web app provides Microsoft Wrod's style blogging with user profile, commentary, interactions, file uploading, content real-time translation, followers, notifications,E-mail support, full-text search and APIs
+This web app provides CKEditor blogging style with user profile, commentary, interactions, file uploading, content real-time translation, followers, notifications,E-mail support, full-text search and APIs
 
  <details align="center">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
