@@ -30,8 +30,8 @@ This web app provides CKEditor blogging style with user profile, commentary, int
 </details>
 
  <details align="center">
-    <summary align="center"><strong>Principles/Patterns</strong></summary>
-    MVC, Blueprints, Mixins, Pagination, REST, Decorator, Single Responsibility, Open/Close and Dependency Inversion
+    <summary align="center"><strong>Principles/Patterns:</strong></summary>
+    MVC, Blueprints, Mixins, Pagination, REST, Decorator and Single Responsibility
 </details>
 
 <center> <h2>Details</h2> </center>
