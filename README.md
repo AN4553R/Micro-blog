@@ -7,7 +7,7 @@
 This web app provides CKEditor blogging style with user profile, commentary, interactions, file uploading, content real-time translation, followers, notifications,E-mail support, full-text search and APIs
 
  <details align="center">
-    <summary align="center"><strong>Tools and Technologies:</strong></summary>
+    <summary align="left"><strong>Tools and Technologies:</strong></summary>
      <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://i.ibb.co/rMD65VH/145-1450089-python-flask-icon.png" width=50px/><br>Flask</td>
@@ -30,7 +30,7 @@ This web app provides CKEditor blogging style with user profile, commentary, int
 </details>
 
  <details align="center">
-    <summary align="center"><strong>Principles/Patterns:</strong></summary>
+    <summary align="left"><strong>Principles/Patterns:</strong></summary>
     MVC, Blueprints, Mixins, Pagination, REST, Decorator and Single Responsibility
 </details>
 
