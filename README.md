@@ -1,6 +1,10 @@
 # Micro-blog
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Abdulrahmannaser/Micro-blog/blob/master/LICENSE)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/python)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://en.wikipedia.org/wiki/Love)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](https://en.wikipedia.org/wiki/Electricity)
+
 **Project Live Link**: https://not-blog.herokuapp.com/
 
 <center> <h2>Motivation</h2> </center>
