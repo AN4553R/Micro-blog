@@ -1,4 +1,5 @@
 # Micro-blog
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Abdulrahmannaser/Micro-blog/blob/master/LICENSE)
 
 **Project Live Link**: https://not-blog.herokuapp.com/
 
@@ -94,7 +95,3 @@ Pull requests are welcome. For major changes please open an issue first to discu
 Before submitting your PR, consider running some code formatter on the lines you touched or added. This will help reduce the time spent on fixing small styling issues in code review. Good options are [yapf](https://github.com/google/yapf) or [autopep8](https://github.com/hhatto/autopep8) which likely can be integrated into your favorite editor.
 
 Please refrain from formatting the whole file if you just change some small part of it. If you feel the need to tidy up some particularly egregious code, then do that in a separate PR.
-
-<center><h2>License</h2></center>
-
-[MIT License](https://github.com/Abdulrahmannaser/Micro-blog/blob/master/LICENSE)
