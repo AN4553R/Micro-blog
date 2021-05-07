@@ -8,7 +8,7 @@
 
 <center> <h2>Motivation</h2> </center>
 
-This web app provides CKEditor blogging style with user profile, commentary, interactions, file uploading, content real-time translation, followers, notifications,E-mail support, full-text search and APIs
+Content Management System provides CKEditor blogging style with user profile, commentary, interactions, file uploading, content real-time translation, followers, notifications,E-mail support, full-text search and APIs
 
  <details align="center">
     <summary align="left"><strong>Tools and Technologies:</strong></summary>
